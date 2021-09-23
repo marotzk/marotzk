@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Willian M. Braga
 <p>I’m 👀 interested in web development :globe_with_meridians:, data analysis :bar_chart: and software engineering :books:.</p>
 
-<h4>:computer:Languages</h4>
+<h4>:computer:Languages and data</h4>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <br>
