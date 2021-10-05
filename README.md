@@ -1,13 +1,20 @@
-### Hi 👋 I'm Willian M. Braga
-<p>I’m 👀 interested in web development :globe_with_meridians:, data analysis :bar_chart: and software engineering :books:.</p>
+### Hi, 👋 I'm Willian M. Braga
 
-<h4>:computer:Languages and data</h4>
+<p>I’m interested in web development :globe_with_meridians:, data analysis :bar_chart: and software engineering :books:.</p>
 
+<h4>:computer:Technologies</h4>
+
+  ![Node](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   <br>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   <br>
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=StyledComponents)
+  <br>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=green)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
   
   
@@ -24,4 +31,3 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />](https://twitter.com/braga_willtzk) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marotzk/)
 [![GitHub BragaWill]( https://img.shields.io/github/followers/marotzk?label=follow&style=social)](https://github.com/bragawill)
-
